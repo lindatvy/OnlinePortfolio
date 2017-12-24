@@ -1,0 +1,20 @@
+
+
+
+// bowser.json takes care of all the finding and installing packages for you of html/css and js files 
+
+{
+  "name": "html5shiv",
+  "version": "3.7.3",
+  "main": [
+  	"dist/html5shiv.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "composer.json",
+    "test",
+    "build",
+    "src",
+    "build.xml"
+  ]
+}
